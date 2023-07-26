@@ -28,6 +28,6 @@ img{
   margin-top: 1000px;
   text-align: center;
 }
-p.footer{
-  padding-right: 30px;
+#footer > span{
+  padding: 30px;
 }
