@@ -5,6 +5,8 @@
 #navbar{
   height:25px;
 background-color: #0f1111 ;
+width: 100vw;
+position: fixed;
 }
 a{
   color: white;
@@ -20,13 +22,16 @@ button{
 }
 
 img{
-  width: 60px;
+  width: 90%;
   margin-top: 40px;
 }
 
 #footer{
-  margin-top: 1000px;
+  height: 500px;
+  margin-top: 1500px;
   text-align: center;
+  background-color: #0f1111;
+color: white;
 }
 #footer > span{
   padding: 30px;
